@@ -1,0 +1,18 @@
+.btn-no-jutsu {
+    background: rgb(223, 117, 20);
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border: transparent;
+    border-radius: 2px;
+    font-size: 100%;
+    padding: .5em 1em;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+}
+
+.btn-no-jutsu:hover {
+    background: rgb(206, 110, 20);
+}
